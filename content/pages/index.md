@@ -4,10 +4,13 @@ sections:
   - type: hero_section
     title: Effortlessly track your work
     subtitle: Stop switching between calendars and task lists!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Focus TimeTracker gets out of your way and lets you track the time you
+      spend on tasks effortlessly.
+
+
+      You can also upload those time records to Jira and other popular issue
+      tracking tools.
     actions:
       - label: App Store
         url: /pricing
